@@ -3,7 +3,7 @@
 #include <stdlib.h>
 #include <time.h>
 
-int main() {
+int main1() {
     int score = 0;
 
     printf("=== 간단한 퀴즈 게임 ===\n\n");
