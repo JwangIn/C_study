@@ -1,3 +1,3 @@
 ﻿  변수.c
-C:\Users\Administrator\Desktop\C_study\HelloWorld\변수.c(45,18): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-  HelloWorld.vcxproj -> C:\Users\Administrator\Desktop\C_study\HelloWorld\x64\Debug\HelloWorld.exe
+C:\Users\jaewo\OneDrive\문서\GitHub\C_study\HelloWorld\변수.c(45,18): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  HelloWorld.vcxproj -> C:\Users\jaewo\OneDrive\문서\GitHub\C_study\HelloWorld\x64\Debug\HelloWorld.exe

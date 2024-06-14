@@ -1,21 +1,27 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\C_study\\HelloWorld\\",
+  "WorkspaceRootPath": "C:\\Users\\jaewo\\OneDrive\\\uBB38\uC11C\\GitHub\\C_study\\HelloWorld\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3B6EAD2D-A193-41BB-8B9E-18AA51CBDDEE}|HelloWorld.vcxproj|C:\\Users\\Administrator\\Desktop\\C_study\\HelloWorld\\\uBCC0\uC218.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{3B6EAD2D-A193-41BB-8B9E-18AA51CBDDEE}|HelloWorld.vcxproj|C:\\Users\\jaewo\\OneDrive\\\uBB38\uC11C\\GitHub\\CStudy_0610\\HelloWorld\\4\uAC15_\uC785\uB825.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B6EAD2D-A193-41BB-8B9E-18AA51CBDDEE}|HelloWorld.vcxproj|C:\\Users\\jaewo\\OneDrive\\\uBB38\uC11C\\GitHub\\C_study\\HelloWorld\\\uBCC0\uC218.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{3B6EAD2D-A193-41BB-8B9E-18AA51CBDDEE}|HelloWorld.vcxproj|solutionrelative:\uBCC0\uC218.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3B6EAD2D-A193-41BB-8B9E-18AA51CBDDEE}|HelloWorld.vcxproj|C:\\Users\\Administrator\\Desktop\\C_study\\HelloWorld\\HelloWorld.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{3B6EAD2D-A193-41BB-8B9E-18AA51CBDDEE}|HelloWorld.vcxproj|C:\\Users\\jaewo\\OneDrive\\\uBB38\uC11C\\GitHub\\C_study\\HelloWorld\\HelloWorld.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{3B6EAD2D-A193-41BB-8B9E-18AA51CBDDEE}|HelloWorld.vcxproj|solutionrelative:HelloWorld.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3B6EAD2D-A193-41BB-8B9E-18AA51CBDDEE}|HelloWorld.vcxproj|C:\\Users\\Administrator\\Desktop\\C_study\\HelloWorld\\compiler.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{3B6EAD2D-A193-41BB-8B9E-18AA51CBDDEE}|HelloWorld.vcxproj|C:\\Users\\jaewo\\OneDrive\\\uBB38\uC11C\\GitHub\\CStudy_0610\\HelloWorld\\4\uAC15_\uC774\uC2A4\uCF00\uC774\uD504.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B6EAD2D-A193-41BB-8B9E-18AA51CBDDEE}|HelloWorld.vcxproj|C:\\Users\\jaewo\\OneDrive\\\uBB38\uC11C\\GitHub\\C_study\\HelloWorld\\compiler.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{3B6EAD2D-A193-41BB-8B9E-18AA51CBDDEE}|HelloWorld.vcxproj|solutionrelative:compiler.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3B6EAD2D-A193-41BB-8B9E-18AA51CBDDEE}|HelloWorld.vcxproj|C:\\Users\\Administrator\\Desktop\\C_study\\HelloWorld\\hello.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{3B6EAD2D-A193-41BB-8B9E-18AA51CBDDEE}|HelloWorld.vcxproj|C:\\Users\\jaewo\\OneDrive\\\uBB38\uC11C\\GitHub\\C_study\\HelloWorld\\hello.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{3B6EAD2D-A193-41BB-8B9E-18AA51CBDDEE}|HelloWorld.vcxproj|solutionrelative:hello.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -55,51 +61,80 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "4\uAC15_\uC785\uB825.c",
+              "DocumentMoniker": "C:\\Users\\jaewo\\OneDrive\\\uBB38\uC11C\\GitHub\\CStudy_0610\\HelloWorld\\4\uAC15_\uC785\uB825.c",
+              "RelativeDocumentMoniker": "..\\..\\CStudy_0610\\HelloWorld\\4\uAC15_\uC785\uB825.c",
+              "ToolTip": "C:\\Users\\jaewo\\OneDrive\\\uBB38\uC11C\\GitHub\\CStudy_0610\\HelloWorld\\4\uAC15_\uC785\uB825.c",
+              "RelativeToolTip": "..\\..\\CStudy_0610\\HelloWorld\\4\uAC15_\uC785\uB825.c",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAADEAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-06-14T05:04:21.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "4\uAC15_\uC774\uC2A4\uCF00\uC774\uD504.c",
+              "DocumentMoniker": "C:\\Users\\jaewo\\OneDrive\\\uBB38\uC11C\\GitHub\\CStudy_0610\\HelloWorld\\4\uAC15_\uC774\uC2A4\uCF00\uC774\uD504.c",
+              "RelativeDocumentMoniker": "..\\..\\CStudy_0610\\HelloWorld\\4\uAC15_\uC774\uC2A4\uCF00\uC774\uD504.c",
+              "ToolTip": "C:\\Users\\jaewo\\OneDrive\\\uBB38\uC11C\\GitHub\\CStudy_0610\\HelloWorld\\4\uAC15_\uC774\uC2A4\uCF00\uC774\uD504.c",
+              "RelativeToolTip": "..\\..\\CStudy_0610\\HelloWorld\\4\uAC15_\uC774\uC2A4\uCF00\uC774\uD504.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwkAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-06-14T05:04:19.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "\uBCC0\uC218.c",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C_study\\HelloWorld\\\uBCC0\uC218.c",
+              "DocumentMoniker": "C:\\Users\\jaewo\\OneDrive\\\uBB38\uC11C\\GitHub\\C_study\\HelloWorld\\\uBCC0\uC218.c",
               "RelativeDocumentMoniker": "\uBCC0\uC218.c",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\C_study\\HelloWorld\\\uBCC0\uC218.c",
+              "ToolTip": "C:\\Users\\jaewo\\OneDrive\\\uBB38\uC11C\\GitHub\\C_study\\HelloWorld\\\uBCC0\uC218.c",
               "RelativeToolTip": "\uBCC0\uC218.c",
-              "ViewState": "AQIAABcAAAAAAAAAAAAAACwAAABnAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-06-12T07:09:48.362Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "compiler.c",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C_study\\HelloWorld\\compiler.c",
+              "DocumentMoniker": "C:\\Users\\jaewo\\OneDrive\\\uBB38\uC11C\\GitHub\\C_study\\HelloWorld\\compiler.c",
               "RelativeDocumentMoniker": "compiler.c",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\C_study\\HelloWorld\\compiler.c",
+              "ToolTip": "C:\\Users\\jaewo\\OneDrive\\\uBB38\uC11C\\GitHub\\C_study\\HelloWorld\\compiler.c",
               "RelativeToolTip": "compiler.c",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-06-11T07:45:51.904Z"
+              "WhenOpened": "2024-06-11T07:45:51.904Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "hello.c",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C_study\\HelloWorld\\hello.c",
+              "DocumentMoniker": "C:\\Users\\jaewo\\OneDrive\\\uBB38\uC11C\\GitHub\\C_study\\HelloWorld\\hello.c",
               "RelativeDocumentMoniker": "hello.c",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\C_study\\HelloWorld\\hello.c",
+              "ToolTip": "C:\\Users\\jaewo\\OneDrive\\\uBB38\uC11C\\GitHub\\C_study\\HelloWorld\\hello.c",
               "RelativeToolTip": "hello.c",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-06-11T07:17:15.297Z"
+              "WhenOpened": "2024-06-11T07:17:15.297Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "HelloWorld.c",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C_study\\HelloWorld\\HelloWorld.c",
+              "DocumentMoniker": "C:\\Users\\jaewo\\OneDrive\\\uBB38\uC11C\\GitHub\\C_study\\HelloWorld\\HelloWorld.c",
               "RelativeDocumentMoniker": "HelloWorld.c",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\C_study\\HelloWorld\\HelloWorld.c",
+              "ToolTip": "C:\\Users\\jaewo\\OneDrive\\\uBB38\uC11C\\GitHub\\C_study\\HelloWorld\\HelloWorld.c",
               "RelativeToolTip": "HelloWorld.c",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-06-11T07:12:20.569Z"
+              "WhenOpened": "2024-06-11T07:12:20.569Z",
+              "EditorCaption": ""
             }
           ]
         }

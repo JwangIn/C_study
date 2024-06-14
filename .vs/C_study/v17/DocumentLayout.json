@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jaewo\\OneDrive\\\uBB38\uC11C\\GitHub\\C_study\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jaewo\\OneDrive\\\uBB38\uC11C\\GitHub\\C_study\\HelloWorld\\4\uAC15_\uC774\uC2A4\uCF00\uC774\uD504.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HelloWorld\\4\uAC15_\uC774\uC2A4\uCF00\uC774\uD504.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jaewo\\OneDrive\\\uBB38\uC11C\\GitHub\\C_study\\HelloWorld\\compiler.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HelloWorld\\compiler.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jaewo\\OneDrive\\\uBB38\uC11C\\GitHub\\C_study\\HelloWorld\\4\uAC15_\uC785\uB825.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HelloWorld\\4\uAC15_\uC785\uB825.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jaewo\\OneDrive\\\uBB38\uC11C\\GitHub\\C_study\\HelloWorld\\HelloWorld.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HelloWorld\\HelloWorld.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jaewo\\OneDrive\\\uBB38\uC11C\\GitHub\\C_study\\HelloWorld\\\uBCC0\uC218.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HelloWorld\\\uBCC0\uC218.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "4\uAC15_\uC785\uB825.c",
+              "DocumentMoniker": "C:\\Users\\jaewo\\OneDrive\\\uBB38\uC11C\\GitHub\\C_study\\HelloWorld\\4\uAC15_\uC785\uB825.c",
+              "RelativeDocumentMoniker": "HelloWorld\\4\uAC15_\uC785\uB825.c",
+              "ToolTip": "C:\\Users\\jaewo\\OneDrive\\\uBB38\uC11C\\GitHub\\C_study\\HelloWorld\\4\uAC15_\uC785\uB825.c",
+              "RelativeToolTip": "HelloWorld\\4\uAC15_\uC785\uB825.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-06-14T04:57:18.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "4\uAC15_\uC774\uC2A4\uCF00\uC774\uD504.c",
+              "DocumentMoniker": "C:\\Users\\jaewo\\OneDrive\\\uBB38\uC11C\\GitHub\\C_study\\HelloWorld\\4\uAC15_\uC774\uC2A4\uCF00\uC774\uD504.c",
+              "RelativeDocumentMoniker": "HelloWorld\\4\uAC15_\uC774\uC2A4\uCF00\uC774\uD504.c",
+              "ToolTip": "C:\\Users\\jaewo\\OneDrive\\\uBB38\uC11C\\GitHub\\C_study\\HelloWorld\\4\uAC15_\uC774\uC2A4\uCF00\uC774\uD504.c",
+              "RelativeToolTip": "HelloWorld\\4\uAC15_\uC774\uC2A4\uCF00\uC774\uD504.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-06-14T04:57:17.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HelloWorld.c",
+              "DocumentMoniker": "C:\\Users\\jaewo\\OneDrive\\\uBB38\uC11C\\GitHub\\C_study\\HelloWorld\\HelloWorld.c",
+              "RelativeDocumentMoniker": "HelloWorld\\HelloWorld.c",
+              "ToolTip": "C:\\Users\\jaewo\\OneDrive\\\uBB38\uC11C\\GitHub\\C_study\\HelloWorld\\HelloWorld.c",
+              "RelativeToolTip": "HelloWorld\\HelloWorld.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-06-14T04:56:26.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "compiler.c",
+              "DocumentMoniker": "C:\\Users\\jaewo\\OneDrive\\\uBB38\uC11C\\GitHub\\C_study\\HelloWorld\\compiler.c",
+              "RelativeDocumentMoniker": "HelloWorld\\compiler.c",
+              "ToolTip": "C:\\Users\\jaewo\\OneDrive\\\uBB38\uC11C\\GitHub\\C_study\\HelloWorld\\compiler.c",
+              "RelativeToolTip": "HelloWorld\\compiler.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-06-14T04:56:25.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "\uBCC0\uC218.c",
+              "DocumentMoniker": "C:\\Users\\jaewo\\OneDrive\\\uBB38\uC11C\\GitHub\\C_study\\HelloWorld\\\uBCC0\uC218.c",
+              "RelativeDocumentMoniker": "HelloWorld\\\uBCC0\uC218.c",
+              "ToolTip": "C:\\Users\\jaewo\\OneDrive\\\uBB38\uC11C\\GitHub\\C_study\\HelloWorld\\\uBCC0\uC218.c",
+              "RelativeToolTip": "HelloWorld\\\uBCC0\uC218.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-06-14T04:56:21.845Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
